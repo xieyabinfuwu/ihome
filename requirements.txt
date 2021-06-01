@@ -28,7 +28,7 @@ redis==2.10.6
 requests==2.18.4
 six==1.11.0
 SQLAlchemy==1.2.4
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 Werkzeug==0.14.1
 WTForms==2.1
